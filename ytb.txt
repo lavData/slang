@@ -1,0 +1,10 @@
+Link youtube:
+https://www.youtube.com/watch?v=unBidJlI4Fg&t=28s
+
+Phần trăm tham khảo: 10%
+
+Mô tả cấu trúc dữ liệu sử dụng:
+Sử dụng map trong java. Với mỗi key tương ứng với ArrayList<String> value. Các thao tác sửa thêm xóa thực hiện trên đối tượng map này.
+-Thêm [Key,value] thực hiện phương thức put của map
+-Xóa thì remove
+....
